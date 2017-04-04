@@ -37,9 +37,10 @@ const autoprefixer = require('autoprefixer');
  * ------------------------------------------------------------------------
  */
 
+const argv = yargs.argv;
+const hostPort = 60572;
 let minify = false; // True : Enable minify on all files
 let maps = true; // True : Create source maps
-const argv = yargs.argv;
 
 // Prevents task to stop being watched on error
 function swallowError(error) {
@@ -189,7 +190,7 @@ gulp.task('all-designs-json', () => {
 gulp.task('connect', () => {
     connect.server({
         root: ['dist'],
-        port: 60572,
+        port: hostPort,
         https: false,
         middleware: function() {
             return [cors()];
