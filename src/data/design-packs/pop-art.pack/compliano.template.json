@@ -13,17 +13,26 @@
     },
     "designProperties": {
         "text1": {
-            "label": "Text 1",
+            "label": {
+                "en" : "Text 1",
+                "id" : "Teks 1"
+            },
             "input": "text",
             "value": "Banyak\nMengeluh"
         },
         "text2": {
-            "label": "Text 2",
+            "label": {
+                "en" : "Text 2",
+                "id" : "Teks 2"
+            },
             "input": "text",
             "value": "Tidak mengubah apapun"
         },
         "text3": {
-            "label": "Text 3",
+            "label": {
+                "en" : "Text 3",
+                "id" : "Teks 3"
+            },
             "input": "text",
             "value": "Mendoakannya, mendoakan negeri ini untuk jadi lebih baik"
         },
@@ -31,7 +40,10 @@
             "input": "separator"
         },
         "width": {
-            "label": "Main Width",
+            "label": {
+                "en" : "Text Width",
+                "id" : "Lebar Teks"
+            },
             "input": "range",
             "value": 500,
             "min": 300,
