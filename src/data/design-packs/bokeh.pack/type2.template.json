@@ -1,0 +1,44 @@
+{
+    "extends": {
+        "groupID" : "bokeh",
+        "designID" : "type1",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "fonts" : {
+        "google": ["Amiri:400:arabic", "Lato:400,400i,700"]
+    },
+    "order": 2,
+    "title": {
+        "en": "Type 2",
+        "id": "Tipe 2"
+    },
+    "designProperties" : {
+        "background": {
+            "value": "__designDataUrl__/design-assets/images/larch-163340.jpg"
+        },
+        "title" : {
+            "value": ""
+        },
+        "subtitle" : {
+            "value": ""
+        },
+        "maintext" : {
+            "value": "كن خيرا وسيعود الخير لك"
+        },
+        "maintextFontSize": {
+            "value": 86,
+            "min": 10,
+            "max": 100
+        },
+        "description" : {
+            "value": "Do good and good will come to you."
+        },
+        "notes" : {
+            "value": "Arabic Proverbs"
+        }
+    }
+
+}

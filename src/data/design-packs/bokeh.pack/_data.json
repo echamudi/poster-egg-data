@@ -1,0 +1,11 @@
+{
+    "order": 2,
+    "title": {
+        "en": "Bokeh Pack",
+        "id": "Poster Sederhana"
+    },
+    "description": {
+        "en": "Simple poster with text on customizable background.",
+        "id": "Poster teks sederhana dengan latar belakang custom."
+    }
+}

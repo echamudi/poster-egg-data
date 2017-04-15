@@ -1,0 +1,64 @@
+#artboard {
+    .bg {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center center;
+        background-image: url(__background__);
+        filter: blur(__backgroundBlur__px);
+    }
+
+    .bg-darken {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #000;
+        opacity: __backgroundDarken__;
+    }
+
+    .text-wrapper {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Lato', 'Amiri', sans-serif;
+        text-align: center;
+        word-break: break-word;    
+    }
+
+    .text-wrapper-inner {
+        width: __textWidth__px;
+    }
+
+    .title {
+        font-weight: 700;
+        font-size: __titleFontSize__px;
+        margin-bottom: 22px;
+    }
+
+    .subtitle {
+        font-size: __subtitleFontSize__px;
+        margin-bottom: 27px;
+    }
+
+    .maintext {
+        font-size: __maintextFontSize__px;
+        line-height: calc(__maintextFontSize__px * 2);
+        margin-bottom: 32px;
+    }
+
+    .description {
+        font-size: __descriptionFontSize__px;
+        margin-bottom: 22px;
+    }
+
+    .notes {
+        font-size: __notesFontSize__px;
+        font-style: italic;
+        opacity: 0.8;
+    }
+}

@@ -48,11 +48,6 @@
             "value": 500,
             "min": 300,
             "max": 900
-        },
-        "background": {
-            "label": "Image BG",
-            "input": "image",
-            "value": ""
         }
     }
 }

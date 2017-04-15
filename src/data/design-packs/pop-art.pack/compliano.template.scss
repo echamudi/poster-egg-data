@@ -1,7 +1,7 @@
 #artboard {
     background: black;
 
-    .container {
+    .wrapper {
         width: 100%;
         height: 100%;
         display: flex;
@@ -10,7 +10,7 @@
         word-break: break-word;
     }
 
-    .container-inner {
+    .wrapper-inner {
         width: __width__px;
         position: relative;
     }

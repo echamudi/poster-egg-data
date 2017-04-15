@@ -1,0 +1,160 @@
+{
+    "order": 1,
+    "title": {
+        "en": "Type 1",
+        "id": "Tipe 1"
+    },
+    "fonts" : {
+        "google": ["Amiri:400:arabic", "Lato:400,400i,700"]
+    },
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "background": {
+            "label": {
+                "en" : "Background Upload",
+                "id" : "Upload Latar Belakang"
+            },
+            "input": "image",
+            "value": "__designDataUrl__/design-assets/images/reed-546250.jpg"
+        },
+        "backgroundBlur": {
+            "label": {
+                "en" : "Background Bokeh",
+                "id" : "Blur Latar Belakang"
+            },
+            "input": "range",
+            "value": 10,
+            "min": 0,
+            "max": 50
+        },
+        "backgroundDarken": {
+            "label" : {
+                "en" : "Background Darkness",
+                "id" : "Pergelap latar"
+            },
+            "input": "range",
+            "value": "0.3",
+            "min": 0,
+            "max": 1,
+            "step": ".01"
+        },
+        "textWidth": {
+            "label" : {
+                "en" : "Text Width",
+                "id" : "Lebar Teks"
+            },
+            "input": "range",
+            "value": 800,
+            "min": 300,
+            "max": 1000
+        },
+        "sep1": {
+            "input": "separator"
+        },
+        "title" : {
+            "label": {
+                "en" : "Title",
+                "id" : "Judul"
+            },
+            "input": "text",
+            "value": "Intention"
+        },
+        "titleFontSize": {
+            "label": {
+                "en" : "Title Font Size",
+                "id" : "Ukuran Font Judul"
+            },
+            "input": "range",
+            "value": 58,
+            "min": 10,
+            "max": 100
+        },
+        "sep2": {
+            "input": "separator"
+        },
+        "subtitle" : {
+            "label": {
+                "en" : "Subtitle",
+                "id" : "Subjudul"
+            },
+            "input": "text",
+            "value": "Umar ibn Al-Khattab reported: The Messenger of Allah, peace and blessings be upon him, said:"
+        },
+        "subtitleFontSize": {
+            "label": {
+                "en" : "Subtitle Font Size",
+                "id" : "Ukuran Font Subjudul"
+            },
+            "input": "range",
+            "value": 28,
+            "min": 10,
+            "max": 100
+        },
+        "sep3": {
+            "input": "separator"
+        },
+        "maintext" : {
+            "label": {
+                "en" : "Main Text",
+                "id" : "Teks Utama"
+            },
+            "input": "text",
+            "value": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّةِ وَإِنَّمَا لِامْرِئٍ مَا نَوَى <br> فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ <br> وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَتَزَوَّجُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ"
+        },
+        "maintextFontSize": {
+            "label": {
+                "en" : "Main Text Font Size",
+                "id" : "Ukuran Font Teks Utama"
+            },
+            "input": "range",
+            "value": 36,
+            "min": 10,
+            "max": 100
+        },
+        "sep4": {
+            "input": "separator"
+        },
+        "description" : {
+            "label": {
+                "en" : "Description",
+                "id" : "Deskripsi"
+            },
+            "input": "text",
+            "value": "Verily, deeds are only with intentions. Verily, every person will have only what they intended. So whoever emigrated to Allah and His Messenger, then his emigration is for Allah and His Messenger. Whoever emigrated to get something in the world or to marry a woman, then his emigration is for whatever he emigrated for."
+        },
+        "descriptionFontSize": {
+            "label": {
+                "en" : "Description Font Size",
+                "id" : "Ukuran Font Deskripsi"
+            },
+            "input": "range",
+            "value": 28,
+            "min": 10,
+            "max": 100
+        },
+        "sep5": {
+            "input": "separator"
+        },
+        "notes" : {
+            "label": {
+                "en" : "Notes",
+                "id" : "Catatan"
+            },
+            "input": "text",
+            "value": "Source: Sahih Bukhari 54, Grade: Muttafaqun Alayhi"
+        },
+        "notesFontSize": {
+            "label": {
+                "en" : "Notes Font Size",
+                "id" : "Ukuran Font Catatan"
+            },
+            "input": "range",
+            "value": 26,
+            "min": 10,
+            "max": 100
+        }
+    }
+}
