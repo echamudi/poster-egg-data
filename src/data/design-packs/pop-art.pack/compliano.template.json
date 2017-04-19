@@ -18,7 +18,7 @@
                 "id" : "Teks 1"
             },
             "input": "text",
-            "value": "Banyak\nMengeluh"
+            "value": "Banyak<br>Mengeluh"
         },
         "text2": {
             "label": {

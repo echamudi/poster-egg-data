@@ -29,9 +29,7 @@
             "value": "كن خيرا وسيعود الخير لك"
         },
         "maintextFontSize": {
-            "value": 86,
-            "min": 10,
-            "max": 100
+            "value": 86
         },
         "description" : {
             "value": "Do good and good will come to you."
