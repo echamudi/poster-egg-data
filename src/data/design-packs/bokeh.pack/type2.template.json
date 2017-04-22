@@ -1,6 +1,6 @@
 {
     "extends": {
-        "groupID" : "bokeh",
+        "packID" : "bokeh",
         "designID" : "type1",
         "mergeBehaviour" : {
             "css" : "parent-then-child",

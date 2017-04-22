@@ -118,43 +118,43 @@ gulp.task('all-designs-json', () => {
 
     var finalDesignList = [];
 
-    // List all folders to get groupNames
-    fs.readdir(mainDir, (err, groupNames) => {
+    // List all folders to get packNames
+    fs.readdir(mainDir, (err, packNames) => {
 
         // .pack extensions only
-        groupNames = groupNames.filter((string) => /\.(pack)$/i.test(string) ? string : 0);
+        packNames = packNames.filter((string) => /\.(pack)$/i.test(string) ? string : 0);
 
-        // Read each group name and push processed data to finalDesignList
-        groupNames.forEach((groupName) => {
+        // Read each pack name and push processed data to finalDesignList
+        packNames.forEach((packName) => {
 
-            // read _data.json file in the group
-            var groupData = JSON.parse(fs.readFileSync(mainDir + groupName + '/_data.json'));
+            // read _data.json file in the pack
+            var packData = JSON.parse(fs.readFileSync(mainDir + packName + '/_data.json'));
 
             // add folder name as ID
-            groupData.groupID = groupName.slice(0, -5);
+            packData.packID = packName.slice(0, -5);
 
             // shift by -1 to fit array key
-            var groupOrder = groupData.order - 1;
+            var packOrder = packData.order - 1;
 
             // "order" property is not important now
-            delete groupData.order;
+            delete packData.order;
 
-            // add current group data to final design list
-            finalDesignList[groupOrder] = groupData;
+            // add current pack data to final design list
+            finalDesignList[packOrder] = packData;
 
             // design list property
-            finalDesignList[groupOrder].designs = [];
+            finalDesignList[packOrder].designs = [];
 
-            // look for the designs themselves, read all files inside the group folder
-            fs.readdir(mainDir + '/' + groupName, (err, groupContents) => {
+            // look for the designs themselves, read all files inside the pack folder
+            fs.readdir(mainDir + '/' + packName, (err, packContents) => {
 
                 // .template.json extensions only
-                groupContents = groupContents.filter((string) => /\.(template\.json)$/i.test(string) ? string : 0);
+                packContents = packContents.filter((string) => /\.(template\.json)$/i.test(string) ? string : 0);
 
-                groupContents.forEach((fileName) => {
+                packContents.forEach((fileName) => {
 
                     // read *.template.json
-                    var designData = JSON.parse(fs.readFileSync(mainDir + groupName + '/' + fileName));
+                    var designData = JSON.parse(fs.readFileSync(mainDir + packName + '/' + fileName));
 
                     // add json file name
                     designData.designID = fileName.replace(/.template.json/g, '');
@@ -165,12 +165,12 @@ gulp.task('all-designs-json', () => {
                     // "order" property is not important now
                     delete designData.order;
 
-                    writeFile("dist/data/design-packs/" + groupName + '/' + fileName, JSON.stringify(designData));
+                    writeFile("dist/data/design-packs/" + packName + '/' + fileName, JSON.stringify(designData));
 
                     // "designProperties" property is not required
                     delete designData.designProperties;
 
-                    finalDesignList[groupOrder].designs[designOrder] = designData;
+                    finalDesignList[packOrder].designs[designOrder] = designData;
                 });
 
                 // write it
