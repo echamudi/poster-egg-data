@@ -175,7 +175,7 @@ gulp.task('all-designs-json', () => {
 
                 // write it
 
-                writeFile("dist/data/all-designs.json", JSON.stringify(finalDesignList));
+                writeFile("dist/data/all-packs.json", JSON.stringify(finalDesignList));
             });
         });
     });
