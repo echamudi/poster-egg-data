@@ -1,0 +1,39 @@
+{
+    "extends": {
+        "packID" : "bokeh",
+        "designID" : "type1",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "fonts" : {
+        "google": ["Amiri:400:arabic", "Lato:400,400i,700"]
+    },
+    "order": 3,
+    "title": {
+        "en": "Type 3",
+        "id": "Tipe 3"
+    },
+    "designProperties" : {
+        "background": {
+            "value": "__designDataUrl__/design-assets/images/aoraki-90388.jpg"
+        },
+        "title" : {
+            "value": ""
+        },
+        "subtitle" : {
+            "value": ""
+        },
+        "maintext" : {
+            "value": "كن خيرا وسيعود الخير لك"
+        },
+        "description" : {
+            "value": "Do good and good will come to you."
+        },
+        "notes" : {
+            "value": "Arabic Proverbs"
+        }
+    }
+
+}
