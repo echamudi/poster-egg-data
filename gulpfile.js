@@ -162,7 +162,7 @@ gulp.task('all-designs-json', () => {
                     // shift by -1 to fit array key
                     var designOrder = designData.order - 1;
 
-                    // "order" property is not important now
+                    // delete unimportant properties
                     delete designData.order;
 
                     writeFile("dist/data/design-packs/" + packName + '/' + fileName, JSON.stringify(designData));
