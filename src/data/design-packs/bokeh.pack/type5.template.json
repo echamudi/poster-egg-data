@@ -1,0 +1,42 @@
+{
+    "extends": {
+        "packID" : "bokeh",
+        "designID" : "scheherazade",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "fonts" : {
+        "google": ["El+Messiri:400:arabic", "Lato:400,400i,700"]
+    },
+    "order": 5,
+    "title": {
+        "en": "Messiri",
+        "id": "Messiri"
+    },
+    "designProperties" : {
+        "background": {
+            "value": "__designDataUrl__/design-assets/images/zion-park-139012.jpg"
+        },
+        "backgroundBlur": {
+            "value": 0
+        },
+        "title" : {
+            "value": "Good Word"
+        },
+        "subtitle" : {
+            "value": ""
+        },
+        "maintext" : {
+            "value": "وعن أبي هريرة أن النبي صلى الله عليه وسلم قال:  والكلمة الطيبة صدقة."
+        },
+        "description" : {
+            "value": "The Prophet (ﷺ) said, \"It is also charity to utter a good word.\""
+        },
+        "notes" : {
+            "value": "[Al-Bukhari and Muslim]<br>Riyad as-Salihin, Book 2, Hadith 694"
+        }
+    }
+
+}

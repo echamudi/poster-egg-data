@@ -8,31 +8,40 @@
         }
     },
     "fonts" : {
-        "google": ["Aref+Ruqaa:400:arabic", "Lato:400,400i,700"]
+        "google": ["Harmattan:400:arabic", "Sue+Ellen+Francisco"]
     },
-    "order": 2,
+    "order": 4,
     "title": {
-        "en": "Aref",
-        "id": "Aref"
+        "en": "Harmattan",
+        "id": "Harmattan"
     },
     "designProperties" : {
         "background": {
-            "value": "__designDataUrl__/design-assets/images/larch-163340.jpg"
+            "value": "__designDataUrl__/design-assets/images/river-541456.jpg"
+        },
+        "backgroundBlur": {
+            "value": 2
+        },
+        "textWidth": {
+            "value": 1000
         },
         "title" : {
             "value": ""
         },
         "subtitle" : {
-            "value": ""
+            "value": "The smarter you are, the less you speak"
+        },
+        "subtitleFontSize": {
+            "value": 57
         },
         "maintext" : {
-            "value": "كن خيرا وسيعود الخير لك"
+            "value": "إذا تم العقل نقص الكلام"
         },
         "maintextFontSize": {
-            "value": 86
+            "value": 82
         },
         "description" : {
-            "value": "Do good and good will come to you."
+            "value": ""
         },
         "notes" : {
             "value": "Arabic Proverbs"

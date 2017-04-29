@@ -1,0 +1,39 @@
+{
+    "extends": {
+        "packID" : "bokeh",
+        "designID" : "scheherazade",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "order": 8,
+    "title": {
+        "en": "Lateef",
+        "id": "Lateef"
+    },
+    "designProperties" : {
+        "background": {
+            "value": "__designDataUrl__/design-assets/images/clouds-474739.jpg"
+        },
+        "title" : {
+            "value": "Denying Compassion"
+        },
+        "subtitle" : {
+            "value": "Jarir ibn 'Abdullah reported that the Messenger of Allah, may Allah bless him and grant him peace, said,"
+        },
+        "maintext" : {
+            "value": "مَنْ يُحْرَمُ الرِّفْقَ يُحْرَمُ الْخَيْرَ"
+        },
+        "maintextFontSize": {
+            "value": 64
+        },
+        "description" : {
+            "value": "Whoever is denied compassion is denied good."
+        },
+        "notes" : {
+            "value": "Al-Adab Al-Mufrad, Book 26, Hadith 463.<br>Grade: Sahih (Al-Albani)"
+        }
+    }
+
+}

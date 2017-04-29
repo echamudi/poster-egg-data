@@ -25,7 +25,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        font-family: 'Lato', 'Amiri', sans-serif;
+        font-family: 'Lato', 'Scheherazade', sans-serif;
         text-align: center;
         word-break: break-word;    
     }
@@ -47,7 +47,6 @@
 
     .maintext {
         font-size: __maintextFontSize__px;
-        line-height: calc(__maintextFontSize__px * 2);
         margin-bottom: 32px;
     }
 

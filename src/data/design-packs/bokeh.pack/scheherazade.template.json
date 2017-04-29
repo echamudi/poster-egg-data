@@ -1,11 +1,11 @@
 {
     "order": 1,
     "title": {
-        "en": "Type 1",
-        "id": "Tipe 1"
+        "en": "Scheherazade",
+        "id": "Scheherazade"
     },
     "fonts" : {
-        "google": ["Amiri:400:arabic", "Lato:400,400i,700"]
+        "google": ["Scheherazade:400:arabic", "Lato:400,400i,700"]
     },
     "size" : {
         "w": 1024,
@@ -26,7 +26,7 @@
                 "id" : "Blur Latar Belakang"
             },
             "input": "range",
-            "value": 10,
+            "value": 5,
             "min": 0,
             "max": 50
         },
@@ -36,7 +36,7 @@
                 "id" : "Pergelap latar"
             },
             "input": "range",
-            "value": "0.3",
+            "value": "0.4",
             "min": 0,
             "max": 1,
             "step": ".01"
@@ -60,7 +60,7 @@
                 "id" : "Judul"
             },
             "input": "text",
-            "value": "Intention"
+            "value": "Someone for whom a favour is done and he repays"
         },
         "titleFontSize": {
             "label": {
@@ -68,7 +68,7 @@
                 "id" : "Ukuran Font Judul"
             },
             "input": "range",
-            "value": 58,
+            "value": 46,
             "min": 10,
             "max": 100
         },
@@ -81,7 +81,7 @@
                 "id" : "Subjudul"
             },
             "input": "text",
-            "value": "Umar ibn Al-Khattab reported: The Messenger of Allah, peace and blessings be upon him, said:"
+            "value": "Jabir ibn 'Abdullah al-Ansari reported that the Prophet (ﷺ), said,"
         },
         "subtitleFontSize": {
             "label": {
@@ -102,7 +102,7 @@
                 "id" : "Teks Utama"
             },
             "input": "text",
-            "value": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّةِ وَإِنَّمَا لِامْرِئٍ مَا نَوَى <br> فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ <br> وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَتَزَوَّجُهَا فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ"
+            "value": "مَنْ صُنِعَ إِلَيْهِ مَعْرُوفٌ فَلْيُجْزِئْهُ، فَإِنْ لَمْ يَجِدْ مَا يُجْزِئُهُ فَلْيُثْنِ عَلَيْهِ، فَإِنَّهُ إِذَا أَثْنَى فَقَدْ شَكَرَهُ، وَإِنْ كَتَمَهُ فَقَدْ كَفَرَهُ، وَمَنْ تَحَلَّى بِمَا لَمْ يُعْطَ، فَكَأَنَّمَا لَبِسَ ثَوْبَيْ زُورٍ"
         },
         "maintextFontSize": {
             "label": {
@@ -110,7 +110,7 @@
                 "id" : "Ukuran Font Teks Utama"
             },
             "input": "range",
-            "value": 36,
+            "value": 52,
             "min": 10,
             "max": 100
         },
@@ -123,7 +123,7 @@
                 "id" : "Deskripsi"
             },
             "input": "text",
-            "value": "Verily, deeds are only with intentions. Verily, every person will have only what they intended. So whoever emigrated to Allah and His Messenger, then his emigration is for Allah and His Messenger. Whoever emigrated to get something in the world or to marry a woman, then his emigration is for whatever he emigrated for."
+            "value": "Whoever has a favour done for him should repay it. If he cannot find anything he can use to repay it, he should praise the one who did it. When he praises him, he thanks him. If he is silent, he is ungrateful to him. If someone adorns himself with something he has not been given, it is as if he was wearing a false garment."
         },
         "descriptionFontSize": {
             "label": {
@@ -144,7 +144,7 @@
                 "id" : "Catatan"
             },
             "input": "text",
-            "value": "Source: Sahih Bukhari 54, Grade: Muttafaqun Alayhi"
+            "value": "Al-Adab Al-Mufrad, Book 10, Hadith 215.<br>Grade: Sahih (Al-Albani)"
         },
         "notesFontSize": {
             "label": {

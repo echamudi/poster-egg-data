@@ -1,38 +1,41 @@
 {
     "extends": {
         "packID" : "bokeh",
-        "designID" : "type1",
+        "designID" : "scheherazade",
         "mergeBehaviour" : {
             "css" : "parent-then-child",
             "html" : "use-parent"
         }
     },
     "fonts" : {
-        "google": ["Amiri:400:arabic", "Lato:400,400i,700"]
+        "google": ["Cairo:400:arabic", "Lato:400,400i,700"]
     },
     "order": 3,
     "title": {
-        "en": "Type 3",
-        "id": "Tipe 3"
+        "en": "Cairo",
+        "id": "Cairo"
     },
     "designProperties" : {
         "background": {
-            "value": "__designDataUrl__/design-assets/images/aoraki-90388.jpg"
+            "value": "__designDataUrl__/design-assets/images/sky-34536.png"
+        },
+        "backgroundBlur": {
+            "value": 0
         },
         "title" : {
             "value": ""
         },
         "subtitle" : {
-            "value": ""
+            "value": "A man asked the Messenger of Allah (ﷺ):<br> \"Which act in Islam is the best?\" He (ﷺ) replied,"
         },
         "maintext" : {
-            "value": "كن خيرا وسيعود الخير لك"
+            "value": "تطعم الطعام، وتقرأ السلام على من عرفت ومن لم تعرف"
         },
         "description" : {
-            "value": "Do good and good will come to you."
+            "value": "To give food, and to greet everyone, whether you know or you do not."
         },
         "notes" : {
-            "value": "Arabic Proverbs"
+            "value": "[Al-Bukhari and Muslim]<br>Riyad as-Salihin, Book 6, Hadith 845"
         }
     }
 

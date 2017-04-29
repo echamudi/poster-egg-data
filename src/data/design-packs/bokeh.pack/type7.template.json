@@ -1,0 +1,39 @@
+{
+    "extends": {
+        "packID" : "bokeh",
+        "designID" : "scheherazade",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "order": 7,
+    "fonts" : {
+        "google": ["Mirza:400:arabic", "Lato:400,400i,700"]
+    },
+    "title": {
+        "en": "Mirza",
+        "id": "Mirza"
+    },
+    "designProperties" : {
+        "background": {
+            "value": "__designDataUrl__/design-assets/images/landscape-540115.jpg"
+        },
+        "title" : {
+            "value": "Respecting Food"
+        },
+        "subtitle" : {
+            "value": ""
+        },
+        "maintext" : {
+            "value": "وعن أبى هريرة رضى الله عنه قال:  \"ما عاب رسول الله صلى الله عليه وسلم طعاماً قط، إن اشتهاه أكله، وإن كرهه تركه\"  ."
+        },
+        "description" : {
+            "value": "Messenger of Allah (ﷺ) never found fault with food. If he had inclination to eating it, he would eat; and if he disliked it, he would leave it."
+        },
+        "notes" : {
+            "value": "[Al-Bukhari and Muslim]<br>Riyad as-Salihin, Book 3, Hadith 736"
+        }
+    }
+
+}

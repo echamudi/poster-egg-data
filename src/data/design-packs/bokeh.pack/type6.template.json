@@ -1,0 +1,45 @@
+{
+    "extends": {
+        "packID" : "bokeh",
+        "designID" : "scheherazade",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "fonts" : {
+        "google": ["Lemonada:300:arabic", "Lato:400,400i,700"]
+    },
+    "order": 6,
+    "title": {
+        "en": "Lemonada",
+        "id": "Lemonada"
+    },
+    "designProperties" : {
+        "background": {
+            "value": "__designDataUrl__/design-assets/images/flower-246888.jpg"
+        },
+        "backgroundDarken": {
+            "value": "0.17"
+        },
+        "title" : {
+            "value": "Shyness"
+        },
+        "subtitle" : {
+            "value": "Imran bin Husain (May Allah be pleased with them) reported:<br>Messenger of Allah (ﷺ) said,"
+        },
+        "maintext" : {
+            "value": "الحياء لا يأتى إلا بخير"
+        },
+        "maintextFontSize": {
+            "value": 56
+        },
+        "description" : {
+            "value": "Shyness does not bring anything except good"
+        },
+        "notes" : {
+            "value": "Riyad as-Salihin : Book 2, Hadith 682"
+        }
+    }
+
+}
