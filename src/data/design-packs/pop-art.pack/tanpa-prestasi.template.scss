@@ -1,0 +1,71 @@
+#artboard {
+    align-items: center;
+    justify-content: center;
+    font-family: 'Hind', sans-serif;
+    text-align: center;
+    word-break: break-word;    
+
+    .bg {
+        z-index: 1;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center center;
+        background-image: url(__background__);
+        filter: grayscale(1) brightness(0.6);    
+    }
+
+    .text-1 {
+        font-size: __maintextFontSize__px;
+        line-height: __maintextFontSize__px;
+        position: absolute;
+        width: 100%;
+        height: calc(100% - 150px);
+        text-transform: uppercase;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mirror-1 {
+        z-index: 5;
+        color: white;
+        transform: skewY(-__maintextSkew__deg) skewX(-__maintextSkew__deg);
+    }
+    .mirror-2 {
+        z-index: 4;
+        color: rgb(17, 0, 150);
+        transform: skewY(-__maintextSkew__deg) skewX(-__maintextSkew__deg) translateX(calc(__maintextFontSize__px / -30)) translateY(calc(__maintextFontSize__px / 30));
+    }
+    .mirror-3 {
+        z-index: 3;
+        color: rgb(251, 1, 102);
+        transform: skewY(-__maintextSkew__deg) skewX(-__maintextSkew__deg) translateX(calc(__maintextFontSize__px / -15)) translateY(calc(__maintextFontSize__px / 15));
+    }
+
+    .subtitle {
+        width: 100%;
+        height: 150px;
+        color: white;
+        z-index: 6;
+        position: absolute;
+        bottom: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-transform: uppercase;
+        letter-spacing: calc(__subtitleFontSize__px / 3);
+    }
+
+    .subtitle-1 {
+        font-size: calc(__subtitleFontSize__px / 2);
+        opacity: 0.6;
+    }
+    
+    .subtitle-2 {
+        font-size: __subtitleFontSize__px;
+        opacity: 0.9;
+    }
+}

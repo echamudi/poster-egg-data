@@ -1,0 +1,84 @@
+{
+    "order": 2,
+    "title": {
+        "en": "Tanpa Prestasi",
+        "id": "Tanpa Prestasi"
+    },
+    "fonts" : {
+        "google": [ "Hind:400,600" ]
+    },
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "background": {
+            "label": {
+                "en" : "Background Upload",
+                "id" : "Upload Latar Belakang"
+            },
+            "input": "image",
+            "value": "__designDataUrl__/design-assets/images/person-731151.jpg"
+        },
+        "separator": {
+            "input": "separator"
+        },
+        "text1": {
+            "label": {
+                "en" : "Main Text",
+                "id" : "Teks"
+            },
+            "input": "text",
+            "value": "Jangan<br>Menua<br>Tanpa<br>Prestasi"
+        },
+        "maintextFontSize": {
+            "label": {
+                "en" : "Text Size",
+                "id" : "Ukuran Teks"
+            },
+            "input": "range",
+            "value": 160,
+            "min": 28,
+            "max": 250
+        },
+        "maintextSkew": {
+            "label": {
+                "en" : "Skew",
+                "id" : "Kemiringan"
+            },
+            "input": "range",
+            "value": 7,
+            "min": 0,
+            "max": 15
+        },
+        "separator2": {
+            "input": "separator"
+        },
+        "sub1": {
+            "label": {
+                "en" : "Subtitle 1",
+                "id" : "Subtitle 1"
+            },
+            "input": "text",
+            "value": "Zen quote from"
+        },
+        "sub2": {
+            "label": {
+                "en" : "Subtitle 2",
+                "id" : "Subtitle 2"
+            },
+            "input": "text",
+            "value": "Ridwan Kamil"
+        },
+        "subtitleFontSize": {
+            "label": {
+                "en" : "Subtitle Size",
+                "id" : "Ukuran Subtitle"
+            },
+            "input": "range",
+            "value": 35,
+            "min": 15,
+            "max": 60
+        }
+    }
+}
