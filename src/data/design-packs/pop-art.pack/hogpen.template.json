@@ -1,8 +1,8 @@
 {
     "order": 1,
     "title": {
-        "en": "Compliano",
-        "id": "Banyak Mengeluh"
+        "en": "Hogpen",
+        "id": "Hogpen"
     },
     "fonts" : {
         "google": ["Fjalla One", "Open Sans Condensed:300"]
