@@ -1,0 +1,48 @@
+#artboard {
+
+    .wrapper {
+        background: #401434;
+        color: #FFF;
+        font-size: __textSize__px;
+        line-height: calc(__textSize__px * 1.2);
+        text-align: center;
+        font-family: 'Bitter', 'Lateef', sans-serif;
+        font-weight: 700;
+
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        word-break: break-word;
+    }
+
+    .wrapper-inner {
+        width: 980px;
+        position: relative;
+    }
+
+    .text-1 {
+        margin-bottom: 20px;
+        font-size: 1em;
+    }
+
+    .text-2 {
+        color: #F5BA42;
+        margin-bottom: 20px;
+        font-size: 1em;
+    }
+    .text-3 {
+        color: #F5BA42;
+        margin-bottom: 20px;
+        font-size: 1em;
+    }
+    .text-4 {
+        margin-bottom: 20px;
+        font-size: 1em;
+    }
+    .footnote {
+        font-weight: 400;
+        font-size: 22px;
+    }
+}

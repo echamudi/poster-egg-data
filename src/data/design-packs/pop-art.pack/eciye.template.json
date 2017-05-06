@@ -1,0 +1,69 @@
+{
+    "order": 4,
+    "title": {
+        "en": "Eciye",
+        "id": "Eciye"
+    },
+    "fonts" : {
+        "google": ["Bitter:700,400", "Lateef:400"]
+    },
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "textSize": {
+            "label": {
+                "en" : "Text Size",
+                "id" : "Ukuran Teks"
+            },
+            "input": "range",
+            "value": 58,
+            "min": 20,
+            "max": 100
+        },
+        "sep1": {
+            "input": "separator"
+        },
+        "text1": {
+            "label": {
+                "en" : "Text 1",
+                "id" : "Teks 1"
+            },
+            "input": "text",
+            "value": "Ciiee yang lagi lihat-lihat,<br>Coba deh, letakin HP nya<br>30 detik saja, lalu baca ini :"
+        },
+        "text2": {
+            "label": {
+                "en" : "Text 2",
+                "id" : "Teks 2"
+            },
+            "input": "text",
+            "value": "سُبْحَانَ اللّهِ وَ بِحَمْدِهِ ، سُبْحَانَ اللّهِ الْعَظِيمِ"
+        },
+        "text3": {
+            "label": {
+                "en" : "Text 3",
+                "id" : "Teks 3"
+            },
+            "input": "text",
+            "value": "\"Subhanallah wa bi hamdih,<br>subhanallahil 'azhim\""
+        },
+        "text4": {
+            "label": {
+                "en" : "Text 4",
+                "id" : "Teks 4"
+            },
+            "input": "text",
+            "value": "Ringan di lisan, namun berat<br>di timbangan amalan."
+        },
+        "footnote": {
+            "label": {
+                "en" : "Footnote",
+                "id" : "Catatan Kaki"
+            },
+            "input": "text",
+            "value": "\\HR. Bukhari no. 6682 & Muslim no. 2694/"
+        }
+    }
+}
