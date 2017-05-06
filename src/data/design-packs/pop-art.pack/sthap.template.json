@@ -12,22 +12,6 @@
         "h": 1024
     },
     "designProperties": {
-        "text1": {
-            "label": {
-                "en" : "Text 1",
-                "id" : "Teks 1"
-            },
-            "input": "text",
-            "value": "Udah<br>Putusin<br>Aja"
-        },
-        "text2": {
-            "label": {
-                "en" : "Text 2",
-                "id" : "Teks 2"
-            },
-            "input": "text",
-            "value": "Dan janganlah kalian mendekati perbuatan zina, sesungguhnya itu adalah perbuatan nista dan sejelek-jelek jalan.<br>- Al-Isra`: 32"
-        },
         "width": {
             "label": {
                 "en" : "Text Width",
@@ -37,6 +21,48 @@
             "value": 570,
             "min": 300,
             "max": 950
+        },
+        "sep1": {
+            "input": "separator"
+        },
+        "text1": {
+            "label": {
+                "en" : "Text 1",
+                "id" : "Teks 1"
+            },
+            "input": "text",
+            "value": "Udah<br>Putusin<br>Aja"
+        },
+        "text1FontSize": {
+            "label": {
+                "en" : "Text 1 Size",
+                "id" : "Ukuran Teks 1"
+            },
+            "input": "range",
+            "value": 123,
+            "min": 50,
+            "max": 300
+        },
+        "sep2": {
+            "input": "separator"
+        },
+        "text2": {
+            "label": {
+                "en" : "Text 2",
+                "id" : "Teks 2"
+            },
+            "input": "text",
+            "value": "Dan janganlah kalian mendekati perbuatan zina, sesungguhnya itu adalah perbuatan nista dan sejelek-jelek jalan.<br>- Al-Isra`: 32"
+        },
+        "text2FontSize": {
+            "label": {
+                "en" : "Text 2 Size",
+                "id" : "Ukuran Teks 2"
+            },
+            "input": "range",
+            "value": 28,
+            "min": 20,
+            "max": 80
         }
     }
 }
