@@ -1,0 +1,34 @@
+{
+    "order": 6,
+    "title": {
+        "en": "Platt",
+        "id": "Platt"
+    },
+    "fonts" : {
+        "google": ["Chau Philomene One"]
+    },
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "text": {
+            "label": {
+                "en" : "Text",
+                "id" : "Teks"
+            },
+            "input": "text",
+            "value": "WALLAHU<br>A'LAM"
+        },
+        "textSize": {
+            "label": {
+                "en" : "Text Size",
+                "id" : "Ukuran Teks"
+            },
+            "input": "range",
+            "value": 74,
+            "min": 20,
+            "max": 200
+        }
+    }
+}

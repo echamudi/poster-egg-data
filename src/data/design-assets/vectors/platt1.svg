@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Platt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Platt">
+            <rect id="Layer" fill="#00DDD8" x="0" y="0" width="1024" height="1024"></rect>
+            <circle id="Layer" fill="#262D3A" cx="512.5" cy="512.5" r="325.5"></circle>
+            <path d="M409.267498,447.367162 L405,520.336044 L438.477273,549.800692 C438.477273,549.800692 447.446847,544.956943 457.56629,565.177955 C467.685732,585.398967 567.531681,833.37437 567.531681,833.37437 C567.531681,833.37437 585.066868,830.66981 608.256596,823.722918 C631.446325,816.776025 649.087122,808.124606 649.087122,808.124606 C649.087122,808.124606 534.506434,584.447497 510.838587,542.731679 C487.17074,501.01586 474.144239,485.308765 452.886383,466.089635 C431.628526,446.870504 409.267498,447.367162 409.267498,447.367162 Z" id="Layer" fill="#FFFFFF"></path>
+            <rect id="Layer" fill="#FE606E" transform="translate(395.153283, 487.601458) rotate(-19.000000) translate(-395.153283, -487.601458) " x="374.153283" y="380.351087" width="42" height="214.500744" rx="21"></rect>
+            <rect id="Layer" fill="#FFFFFF" transform="translate(396.847961, 461.195639) rotate(-285.000000) translate(-396.847961, -461.195639) " x="386.210097" y="438.321544" width="21.2757272" height="45.7481896" rx="10.6378636"></rect>
+            <rect id="Layer" fill="#FFFFFF" transform="translate(372.792061, 499.648849) rotate(-285.000000) translate(-372.792061, -499.648849) " x="362.154197" y="475.023684" width="21.2757272" height="49.2503303" rx="10.6378636"></rect>
+            <rect id="Layer" fill="#FFFFFF" transform="translate(384.028505, 518.049596) rotate(-285.000000) translate(-384.028505, -518.049596) " x="373.390641" y="484.635826" width="21.2757272" height="66.827539" rx="10.6378636"></rect>
+            <rect id="Layer" fill="#FFFFFF" transform="translate(388.628986, 537.424596) rotate(-285.000000) translate(-388.628986, -537.424596) " x="377.991122" y="505.459715" width="21.2757272" height="63.9297615" rx="10.6378636"></rect>
+            <rect id="Layer" fill="#FFFFFF" transform="translate(393.142542, 558.090836) rotate(-285.000000) translate(-393.142542, -558.090836) " x="382.504678" y="531.757963" width="21.2757272" height="52.6657459" rx="10.6378636"></rect>
+        </g>
+    </g>
+</svg>

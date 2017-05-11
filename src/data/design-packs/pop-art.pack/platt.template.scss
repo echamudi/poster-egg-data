@@ -1,0 +1,19 @@
+#artboard {
+    background: url('__designDataUrl__/design-assets/vectors/platt1.svg');
+
+    .text {
+        font-family: "Chau Philomene One", sans-serif;
+        background: #fe606e;
+        position: absolute;
+        color: white;
+        font-size: __textSize__px;
+        line-height: __textSize__px;
+        padding: calc(__textSize__px / 3);
+        border-radius: 10px;
+        transform: translateX(-50%) translateY(-100%) rotate(-19deg);
+        top: 410px;
+        left: 368px;
+        text-align: center;
+        transform-origin: 50% 100%;
+    }
+}
