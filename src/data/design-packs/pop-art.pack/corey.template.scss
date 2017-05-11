@@ -1,0 +1,46 @@
+#artboard {
+    background: #255E69;
+    color: #DDECEB;
+
+    .wrapper {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        word-break: break-word;
+    }
+
+    .wrapper-inner {
+        width: __width__px;
+        position: relative;
+    }
+
+    .text-1 {
+        font-family: 'Baloo', 'Roboto', sans-serif;
+        font-size: __text1FontSize__px;
+        font-weight: 900;
+        line-height: __text1FontSize__px;
+        margin-bottom: 20px;
+        letter-spacing: 1.3;
+        text-shadow: 4px 4px rgba(0, 0, 0, 0.36);
+    }
+
+    .text-2 {
+        font-family: 'Roboto', sans-serif;
+        font-size: __text2FontSize__px;
+        font-weight: 400;
+        line-height: calc(__text2FontSize__px * 1.25);
+        margin-bottom: 60px;
+    }
+
+    .glyph {
+        font-size: __glyphSize__px;
+        line-height: __glyphSize__px;
+        text-align: center;
+        color: #56BABA;
+        font-weight: bold;
+        text-shadow: 10px 10px rgba(0, 0, 0, 0.36);
+        margin-bottom: 40px;
+    }
+}

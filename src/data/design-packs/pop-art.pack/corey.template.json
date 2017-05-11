@@ -1,0 +1,86 @@
+{
+    "order": 5,
+    "title": {
+        "en": "Corey",
+        "id": "Corey"
+    },
+    "fonts" : {
+        "google": ["Baloo", "Roboto:400"]
+    },
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "width": {
+            "label": {
+                "en" : "Text Width",
+                "id" : "Lebar Teks"
+            },
+            "input": "range",
+            "value": 800,
+            "min": 300,
+            "max": 1000
+        },
+        "sep1": {
+            "input": "separator"
+        },
+        "glyph": {
+            "label": {
+                "en" : "Glyph",
+                "id" : "Glyph"
+            },
+            "input": "text",
+            "value": "☁"
+        },
+        "glyphSize": {
+            "label": {
+                "en" : "Glyph Size",
+                "id" : "Ukuran Glyph"
+            },
+            "input": "range",
+            "value": 350,
+            "min": 200,
+            "max": 500
+        },
+        "text1": {
+            "label": {
+                "en" : "Text 1",
+                "id" : "Teks 1"
+            },
+            "input": "text",
+            "value": "Sesungguhnya Allah benci terhadap ja'dhari, jawadh, orang yang suka berteriak-teriak di pasar (sakhab), laksana bangkai di malam hari, namun bak keledai di siang hari. Dia mahir urusan dunia tetapi bodoh dalam urusan akhirat"
+        },
+        "text1FontSize": {
+            "label": {
+                "en" : "Text 1 Size",
+                "id" : "Ukuran Teks 1"
+            },
+            "input": "range",
+            "value": 42,
+            "min": 28,
+            "max": 120
+        },
+        "sep2": {
+            "input": "separator"
+        },
+        "text2": {
+            "label": {
+                "en" : "Text 2",
+                "id" : "Teks 2"
+            },
+            "input": "text",
+            "value": "(Al Baihaqi dalam sunan Kubra 10/194 dan Ibnu Hibban (Mawarid) no. 1975 hal. 485 dan Lihat silsilah Ahaditsah Shahihah No. 195, 1/171)"
+        },
+        "text2FontSize": {
+            "label": {
+                "en" : "Text 2 Size",
+                "id" : "Ukuran Teks 2"
+            },
+            "input": "range",
+            "value": 22,
+            "min": 12,
+            "max": 80
+        }
+    }
+}
