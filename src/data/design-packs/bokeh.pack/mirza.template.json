@@ -8,9 +8,7 @@
         }
     },
     "order": 7,
-    "fonts" : {
-        "google": ["Mirza:400:arabic", "Lato:400,400i,700"]
-    },
+    "fonts" : "Mirza:400|Lato:400,400i,700",
     "title": {
         "en": "Mirza",
         "id": "Mirza"

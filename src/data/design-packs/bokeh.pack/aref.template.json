@@ -7,9 +7,7 @@
             "html" : "use-parent"
         }
     },
-    "fonts" : {
-        "google": ["Aref+Ruqaa:400:arabic", "Lato:400,400i,700"]
-    },
+    "fonts" : "Aref+Ruqaa:400|Lato:400,400i,700",
     "order": 2,
     "title": {
         "en": "Aref",

@@ -4,9 +4,7 @@
         "en": "Scheherazade",
         "id": "Scheherazade"
     },
-    "fonts" : {
-        "google": ["Scheherazade:400:arabic", "Lato:400,400i,700"]
-    },
+    "fonts" : "Scheherazade:400|Lato:400,400i,700",
     "size" : {
         "w": 1024,
         "h": 1024

@@ -4,9 +4,7 @@
         "en": "Vanska",
         "id": "Vanska"
     },
-    "fonts" : {
-        "google": ["Lobster Two:400,700", "Lato:400"]
-    },
+    "fonts" : "Lobster Two:400,700|Lato:400",
     "size" : {
         "w": 1024,
         "h": 1024

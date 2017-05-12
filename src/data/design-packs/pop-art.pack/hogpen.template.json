@@ -4,9 +4,7 @@
         "en": "Hogpen",
         "id": "Hogpen"
     },
-    "fonts" : {
-        "google": ["Fjalla One", "Open Sans Condensed:300"]
-    },
+    "fonts" : "Fjalla+One|Open+Sans+Condensed:300",
     "size" : {
         "w": 1024,
         "h": 1024

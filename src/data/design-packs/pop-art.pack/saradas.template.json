@@ -4,9 +4,7 @@
         "en": "Saradas",
         "id": "Saradas"
     },
-    "fonts" : {
-        "google": [ "Hind:400,600" ]
-    },
+    "fonts" : "Hind:400,600",
     "size" : {
         "w": 1024,
         "h": 1024

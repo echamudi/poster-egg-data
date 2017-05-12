@@ -8,6 +8,7 @@
         }
     },
     "order": 8,
+    "fonts" : "Lateef|Lato:400,400i,700",
     "title": {
         "en": "Lateef",
         "id": "Lateef"

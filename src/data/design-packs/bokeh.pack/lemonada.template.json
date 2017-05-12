@@ -7,9 +7,7 @@
             "html" : "use-parent"
         }
     },
-    "fonts" : {
-        "google": ["Lemonada:300:arabic", "Lato:400,400i,700"]
-    },
+    "fonts" : "Lemonada:300|Lato:400,400i,700",
     "order": 6,
     "title": {
         "en": "Lemonada",

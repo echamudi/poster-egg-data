@@ -7,9 +7,7 @@
             "html" : "use-parent"
         }
     },
-    "fonts" : {
-        "google": ["Harmattan:400:arabic", "Sue+Ellen+Francisco"]
-    },
+    "fonts" : "Harmattan:400|Sue+Ellen+Francisco",
     "order": 4,
     "title": {
         "en": "Harmattan",

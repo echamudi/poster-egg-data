@@ -4,9 +4,7 @@
         "en": "Platt",
         "id": "Platt"
     },
-    "fonts" : {
-        "google": ["Chau Philomene One"]
-    },
+    "fonts" : "Chau+Philomene+One",
     "size" : {
         "w": 1024,
         "h": 1024

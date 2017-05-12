@@ -4,9 +4,7 @@
         "en": "Eciye",
         "id": "Eciye"
     },
-    "fonts" : {
-        "google": ["Bitter:700,400", "Lateef:400"]
-    },
+    "fonts" : "Bitter:700,400|Lateef:400",
     "size" : {
         "w": 1024,
         "h": 1024

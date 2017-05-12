@@ -7,9 +7,7 @@
             "html" : "use-parent"
         }
     },
-    "fonts" : {
-        "google": ["El+Messiri:400:arabic", "Lato:400,400i,700"]
-    },
+    "fonts" : "El+Messiri:400|Lato:400,400i,700",
     "order": 5,
     "title": {
         "en": "Messiri",

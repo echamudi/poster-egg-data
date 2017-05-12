@@ -4,9 +4,7 @@
         "en": "Corey",
         "id": "Corey"
     },
-    "fonts" : {
-        "google": ["Baloo", "Roboto:400"]
-    },
+    "fonts" : "Baloo|Roboto:400",
     "size" : {
         "w": 1024,
         "h": 1024

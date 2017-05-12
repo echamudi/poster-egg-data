@@ -4,9 +4,7 @@
         "en": "Sthap",
         "id": "Sthap"
     },
-    "fonts" : {
-        "google": ["Montserrat:900", "Roboto:400"]
-    },
+    "fonts" : "Montserrat:900|Roboto:400",
     "size" : {
         "w": 1024,
         "h": 1024
