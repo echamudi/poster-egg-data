@@ -1,8 +1,8 @@
 #artboard {
+    background: #401434;
     filter: hue-rotate(__hue__deg) brightness(__brightness__);
 
     .wrapper {
-        background: #401434;
         color: #FFF;
         font-size: __textSize__px;
         line-height: calc(__textSize__px * 1.2);
