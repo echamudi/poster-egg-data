@@ -1,0 +1,96 @@
+{
+    "order": 7,
+    "title": {
+        "en": "Vanska",
+        "id": "Vanska"
+    },
+    "fonts" : {
+        "google": ["Lobster Two:400,700", "Lato:400"]
+    },
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "hue": {
+            "label": {
+                "en" : "Colourize",
+                "id" : "Warna"
+            },
+            "input": "range",
+            "value": 0,
+            "min": 0,
+            "max": 360
+        },
+        "brightness": {
+            "label" : {
+                "en" : "Brightness",
+                "id" : "Kecerahan"
+            },
+            "input": "range",
+            "value": "1",
+            "min": 0.5,
+            "max": 2,
+            "step": ".01"
+        },
+        "sep0": {
+            "input": "separator"
+        },
+        "header1": {
+            "label": {
+                "en" : "Header Text 1",
+                "id" : "Teks Header 1"
+            },
+            "input": "text",
+            "value": "saat"
+        },
+        "header2": {
+            "label": {
+                "en" : "Header Text 2",
+                "id" : "Teks Header 2"
+            },
+            "input": "text",
+            "value": "Suami"
+        },
+        "header3": {
+            "label": {
+                "en" : "Header Text 3",
+                "id" : "Teks Header 3"
+            },
+            "input": "text",
+            "value": "menikah lagi"
+        },
+        "headerSize": {
+            "label": {
+                "en" : "Header Size",
+                "id" : "Ukuran Header"
+            },
+            "input": "range",
+            "value": "1",
+            "min": 0.2,
+            "max": 3,
+            "step": ".01"
+        },
+        "sep1": {
+            "input": "separator"
+        },
+        "description": {
+            "label": {
+                "en" : "Description",
+                "id" : "Deskripsi"
+            },
+            "input": "text",
+            "value": "“Tidak boleh seorang wanita meminta seorang lelaki agar menceraikan saudarinya agar ia bisa memenuhi piringnya sendiri dan mengosongkan yang lain.”<br>(HR. al-Bukhari no. 5152 dan Muslim)"
+        },
+        "descriptionSize": {
+            "label": {
+                "en" : "Description Size",
+                "id" : "Ukuran Deskripsi"
+            },
+            "input": "range",
+            "value": 32,
+            "min": 20,
+            "max": 80
+        }
+    }
+}
