@@ -74,7 +74,7 @@
                 "id" : "Teks 2"
             },
             "input": "text",
-            "value": "Dan janganlah kalian mendekati perbuatan zina, sesungguhnya itu adalah perbuatan nista dan sejelek-jelek jalan.<br>- Al-Isra`: 32"
+            "value": "Dan janganlah kalian mendekati perbuatan <br>zina, sesungguhnya itu adalah perbuatan <br>nista dan sejelek-jelek jalan. <br>- Al-Isra`: 32"
         },
         "text2FontSize": {
             "label": {

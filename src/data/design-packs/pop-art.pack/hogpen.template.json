@@ -32,7 +32,7 @@
                 "id" : "Teks 3"
             },
             "input": "text",
-            "value": "Mendoakannya, mendoakan negeri ini untuk jadi lebih baik"
+            "value": "Mendoakannya, mendoakan <br>negeri ini untuk jadi lebih baik"
         },
         "separator": {
             "input": "separator"
