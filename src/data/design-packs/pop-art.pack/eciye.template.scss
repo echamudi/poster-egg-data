@@ -1,4 +1,5 @@
 #artboard {
+    filter: hue-rotate(__hue__deg) brightness(__brightness__);
 
     .wrapper {
         background: #401434;

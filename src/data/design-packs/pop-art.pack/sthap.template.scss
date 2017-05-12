@@ -1,5 +1,6 @@
 #artboard {
     background: #FFDF2C;
+    filter: hue-rotate(__hue__deg) brightness(__brightness__);
 
     .wrapper {
         width: 100%;

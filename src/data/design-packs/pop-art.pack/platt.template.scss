@@ -1,5 +1,6 @@
 #artboard {
     background: url('__designDataUrl__/design-assets/vectors/platt1.svg');
+    filter: hue-rotate(__hue__deg) brightness(__brightness__);
 
     .text {
         font-family: "Chau Philomene One", sans-serif;

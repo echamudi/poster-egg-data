@@ -12,6 +12,30 @@
         "h": 1024
     },
     "designProperties": {
+        "hue": {
+            "label": {
+                "en" : "Colourize",
+                "id" : "Warna"
+            },
+            "input": "range",
+            "value": 0,
+            "min": 0,
+            "max": 360
+        },
+        "brightness": {
+            "label" : {
+                "en" : "Brightness",
+                "id" : "Kecerahan"
+            },
+            "input": "range",
+            "value": "1",
+            "min": 0,
+            "max": 2,
+            "step": ".01"
+        },
+        "sep0": {
+            "input": "separator"
+        },
         "width": {
             "label": {
                 "en" : "Text Width",
