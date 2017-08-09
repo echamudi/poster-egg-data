@@ -23,24 +23,6 @@
         "sep1": {
             "input": "separator"
         },
-        "glyph": {
-            "label": {
-                "en" : "Glyph",
-                "id" : "Glyph"
-            },
-            "input": "text",
-            "value": "☁"
-        },
-        "glyphSize": {
-            "label": {
-                "en" : "Glyph Size",
-                "id" : "Ukuran Glyph"
-            },
-            "input": "range",
-            "value": 350,
-            "min": 200,
-            "max": 500
-        },
         "text1": {
             "label": {
                 "en" : "Text 1",
