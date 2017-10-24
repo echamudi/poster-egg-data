@@ -1,0 +1,4 @@
+# Netlify Headers
+
+/*
+	access-control-allow-origin : *
