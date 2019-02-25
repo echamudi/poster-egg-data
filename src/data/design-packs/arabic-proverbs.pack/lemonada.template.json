@@ -1,6 +1,6 @@
 {
     "extends": {
-        "packID" : "bokeh",
+        "packID" : "arabic-proverbs",
         "designID" : "scheherazade",
         "mergeBehaviour" : {
             "css" : "parent-then-child",
