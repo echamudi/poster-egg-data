@@ -29,7 +29,7 @@
                 "id" : "Teks 1"
             },
             "input": "text",
-            "value": "Sesungguhnya Allah benci terhadap ja'dhari, jawadh, orang yang suka berteriak-teriak di pasar (sakhab), laksana bangkai di malam hari, namun bak keledai di siang hari. Dia mahir urusan dunia tetapi bodoh dalam urusan akhirat"
+            "value": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time."
         },
         "text1FontSize": {
             "label": {
@@ -50,7 +50,7 @@
                 "id" : "Teks 2"
             },
             "input": "text",
-            "value": "(Al Baihaqi dalam sunan Kubra 10/194 dan Ibnu Hibban (Mawarid) no. 1975 hal. 485 dan Lihat silsilah Ahaditsah Shahihah No. 195, 1/171)"
+            "value": "(John Lubbock, The Use Of Life)"
         },
         "text2FontSize": {
             "label": {

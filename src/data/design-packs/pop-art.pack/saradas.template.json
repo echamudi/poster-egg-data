@@ -27,7 +27,7 @@
                 "id" : "Teks"
             },
             "input": "text",
-            "value": "Jangan<br>Menua<br>Tanpa<br>Prestasi"
+            "value": "every<br>accomplishment starts with<br>the decision to<br>try"
         },
         "maintextFontSize": {
             "label": {
@@ -66,7 +66,7 @@
                 "id" : "Subtitle 2"
             },
             "input": "text",
-            "value": "Ridwan Kamil"
+            "value": "John F. Kennedy"
         },
         "subtitleFontSize": {
             "label": {

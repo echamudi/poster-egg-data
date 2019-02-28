@@ -40,7 +40,7 @@
                 "id" : "Teks"
             },
             "input": "text",
-            "value": "WALLAHU<br>A'LAM"
+            "value": "Hello World"
         },
         "textSize": {
             "label": {

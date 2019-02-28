@@ -40,7 +40,7 @@
                 "id" : "Teks Header 1"
             },
             "input": "text",
-            "value": "saat"
+            "value": "Getting"
         },
         "header2": {
             "label": {
@@ -48,7 +48,7 @@
                 "id" : "Teks Header 2"
             },
             "input": "text",
-            "value": "Suami"
+            "value": "Married"
         },
         "header3": {
             "label": {
@@ -56,7 +56,7 @@
                 "id" : "Teks Header 3"
             },
             "input": "text",
-            "value": "menikah lagi"
+            "value": "and Love"
         },
         "headerSize": {
             "label": {
@@ -78,7 +78,7 @@
                 "id" : "Deskripsi"
             },
             "input": "text",
-            "value": "“Tidak boleh seorang wanita meminta seorang lelaki agar menceraikan saudarinya agar ia bisa memenuhi piringnya sendiri dan mengosongkan yang lain.”<br>(HR. al-Bukhari no. 5152 dan Muslim)"
+            "value": "“Let there be spaces in your togetherness, And let the winds of the heavens dance between you. Love one another but make not a bond of love: Let it be rather a moving sea between the shores of your souls.”<br>(Kahlil Gibran, The Prophet)"
         },
         "descriptionSize": {
             "label": {

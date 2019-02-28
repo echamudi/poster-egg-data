@@ -53,7 +53,7 @@
                 "id" : "Teks 1"
             },
             "input": "text",
-            "value": "Ciiee yang lagi lihat-lihat,<br>Coba deh, letakin HP nya<br>30 detik saja, lalu baca ini :"
+            "value": ""
         },
         "text2": {
             "label": {
@@ -61,7 +61,7 @@
                 "id" : "Teks 2"
             },
             "input": "text",
-            "value": "سُبْحَانَ اللّهِ وَ بِحَمْدِهِ ، سُبْحَانَ اللّهِ الْعَظِيمِ"
+            "value": "اجتنب مصاحبة الكذاب فإن<br>اضطررت إليه فلا تُصَدِّقْهُ"
         },
         "text3": {
             "label": {
@@ -69,7 +69,7 @@
                 "id" : "Teks 3"
             },
             "input": "text",
-            "value": "\"Subhanallah wa bi hamdih,<br>subhanallahil 'azhim\""
+            "value": "Avoid the company of a liar.<br>And if you can't avoid him,<br>don't believe him."
         },
         "text4": {
             "label": {
@@ -77,7 +77,7 @@
                 "id" : "Teks 4"
             },
             "input": "text",
-            "value": "Ringan di lisan, namun berat<br>di timbangan amalan."
+            "value": "Stay away from someone who says things that are not true. And if you must be with that person, then don't believe what he says."
         },
         "footnote": {
             "label": {
@@ -85,7 +85,7 @@
                 "id" : "Catatan Kaki"
             },
             "input": "text",
-            "value": "\\HR. Bukhari no. 6682 & Muslim no. 2694/"
+            "value": "\\Arabic Proverbs/"
         }
     }
 }

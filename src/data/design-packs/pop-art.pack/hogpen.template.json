@@ -16,7 +16,7 @@
                 "id" : "Teks 1"
             },
             "input": "text",
-            "value": "Banyak<br>Mengeluh"
+            "value": "Forget regret"
         },
         "text2": {
             "label": {
@@ -24,7 +24,7 @@
                 "id" : "Teks 2"
             },
             "input": "text",
-            "value": "Tidak mengubah apapun"
+            "value": "or life is yours to miss"
         },
         "text3": {
             "label": {
@@ -32,7 +32,7 @@
                 "id" : "Teks 3"
             },
             "input": "text",
-            "value": "Mendoakannya, mendoakan <br>negeri ini untuk jadi lebih baik"
+            "value": "Jonathan Larson"
         },
         "separator": {
             "input": "separator"

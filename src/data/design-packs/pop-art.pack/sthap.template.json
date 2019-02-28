@@ -53,7 +53,7 @@
                 "id" : "Teks 1"
             },
             "input": "text",
-            "value": "Udah<br>Putusin<br>Aja"
+            "value": "Single"
         },
         "text1FontSize": {
             "label": {
@@ -74,7 +74,7 @@
                 "id" : "Teks 2"
             },
             "input": "text",
-            "value": "Dan janganlah kalian mendekati perbuatan <br>zina, sesungguhnya itu adalah perbuatan <br>nista dan sejelek-jelek jalan. <br>- Al-Isra`: 32"
+            "value": "is no longer a lack of options - but a choice. A choice to refuse to let your life be defined by your relationship status but to live every day Happily and let your Ever After work itself out.<br><br> – Mandy Hale"
         },
         "text2FontSize": {
             "label": {
