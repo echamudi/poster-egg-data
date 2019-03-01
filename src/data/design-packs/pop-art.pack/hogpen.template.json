@@ -16,7 +16,7 @@
                 "id" : "Teks 1"
             },
             "input": "text",
-            "value": "Forget regret"
+            "value": "Regret"
         },
         "text2": {
             "label": {
@@ -24,7 +24,7 @@
                 "id" : "Teks 2"
             },
             "input": "text",
-            "value": "or life is yours to miss"
+            "value": "A man has cause for regret only when he sows and no one reaps"
         },
         "text3": {
             "label": {
@@ -32,7 +32,7 @@
                 "id" : "Teks 3"
             },
             "input": "text",
-            "value": "Jonathan Larson"
+            "value": "Charles Goodyear"
         },
         "separator": {
             "input": "separator"

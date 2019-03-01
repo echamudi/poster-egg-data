@@ -27,7 +27,7 @@
                 "id" : "Teks"
             },
             "input": "text",
-            "value": "every<br>accomplishment starts with<br>the decision to<br>try"
+            "value": "every<br>accomplishment<br>starts with<br>the decision<br>to try"
         },
         "maintextFontSize": {
             "label": {
@@ -35,8 +35,8 @@
                 "id" : "Ukuran Teks"
             },
             "input": "range",
-            "value": 160,
-            "min": 28,
+            "value": 100,
+            "min": 10,
             "max": 250
         },
         "maintextSkew": {
