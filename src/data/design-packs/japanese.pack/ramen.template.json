@@ -1,0 +1,15 @@
+{
+    "order": 1,
+    "title": {
+        "en": "Ramen",
+        "id": "Ramen"
+    },
+    "fonts" : "Noto+Sans+JP:900",
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+
+    }
+}
