@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Friend</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Friend" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8CCE0" x="0" y="0" width="1024" height="1024"></rect>
+        <polygon id="Rectangle" fill-opacity="0.126775568" fill="#FFFFFF" points="100.590637 1.13686838e-13 357.223306 1.13686838e-13 917.844129 1024 314.260974 1024"></polygon>
+        <polygon id="Triangle" fill-opacity="0.0673896416" fill="#655D86" points="87 730 426 1408 -252 1408"></polygon>
+        <polygon id="Triangle-Copy-2" fill-opacity="0.0673896416" fill="#655D86" points="726 -424 1065 254 387 254"></polygon>
+        <polygon id="Triangle-Copy" fill-opacity="0.0673896416" fill="#655D86" points="1083 449 1422 1127 744 1127"></polygon>
+    </g>
+</svg>

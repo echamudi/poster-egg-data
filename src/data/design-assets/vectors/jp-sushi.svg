@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Sushi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Sushi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
+        <circle id="Oval-Copy" fill="#991127" cx="-187.5" cy="-100.5" r="597.5"></circle>
+        <polygon id="Rectangle" fill="#59340A" transform="translate(393.887362, 946.243874) rotate(-15.000000) translate(-393.887362, -946.243874) " points="-102.112638 927.743874 889.887362 935.11518 889.887362 953.314991 -102.112638 964.743874"></polygon>
+        <polygon id="Rectangle-Copy" fill="#59340A" transform="translate(433.747664, 1011.349817) rotate(-8.000000) translate(-433.747664, -1011.349817) " points="-62.2523355 992.849817 929.747664 1000.22112 929.747664 1018.42093 -62.2523355 1029.84982"></polygon>
+    </g>
+</svg>
