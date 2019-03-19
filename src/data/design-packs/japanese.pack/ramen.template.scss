@@ -1,6 +1,7 @@
 #artboard {
 
     font-family: Noto Sans JP, sans-serif;
+    filter: hue-rotate(__hue__deg) brightness(__brightness__);
 
     .bg {
         position: absolute;
@@ -12,15 +13,18 @@
     }
 
     .text-wrapper {
-        font-size: 160px;
+        text-align: center;
+        text-shadow: 10px 10px rgba(0,0,0,0.2);
+        font-size: __textSize__px;
         position: absolute;
+        line-height: 1.2;
         width: 100%;
         height: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
         color: #FCF8C4;
-        font-weight: bolder;
-        transform: rotate(-5deg);
+        font-weight: 900;
+        transform: rotate(__textAngle__deg);
     }
 }

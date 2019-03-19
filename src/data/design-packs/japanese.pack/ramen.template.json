@@ -10,6 +10,57 @@
         "h": 1024
     },
     "designProperties": {
-
+        "hue": {
+            "label": {
+                "en" : "Colourize",
+                "id" : "Warna"
+            },
+            "input": "range",
+            "value": 0,
+            "min": 0,
+            "max": 360
+        },
+        "brightness": {
+            "label" : {
+                "en" : "Brightness",
+                "id" : "Kecerahan"
+            },
+            "input": "range",
+            "value": "1",
+            "min": 0.5,
+            "max": 2,
+            "step": ".01"
+        },
+        "sep0": {
+            "input": "separator"
+        },
+        "text" : {
+            "label": {
+                "en" : "Text",
+                "id" : "Teks"
+            },
+            "input": "text",
+            "value": "ラーメン"
+        },
+        "textSize": {
+            "label": {
+                "en" : "Font Size",
+                "id" : "Ukuran Font"
+            },
+            "input": "range",
+            "value": 160,
+            "min": 30,
+            "max": 300
+        },
+        "textAngle": {
+            "label": {
+                "en" : "Text Angle",
+                "id" : "Kemiringan Teks"
+            },
+            "input": "range",
+            "value": -5,
+            "min": -90,
+            "max": 90
+        }
     }
 }
