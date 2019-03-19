@@ -1,0 +1,31 @@
+{
+    "extends": {
+        "packID" : "japanese",
+        "designID" : "ramen",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "order": 2,
+    "title": {
+        "en": "Friend",
+        "id": "Friend"
+    },
+    "fonts" : "Noto+Sans+JP:500",
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "text" : {
+            "value": "艱難にあって初めて\n真友を知る"
+        },
+        "textSize": {
+            "value": 100
+        },
+        "textAngle": {
+            "input": "none"
+        }
+    }
+}
