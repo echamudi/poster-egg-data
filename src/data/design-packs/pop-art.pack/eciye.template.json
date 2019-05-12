@@ -40,7 +40,7 @@
                 "id" : "Ukuran Teks"
             },
             "input": "range",
-            "value": 58,
+            "value": 50,
             "min": 20,
             "max": 100
         },
@@ -53,7 +53,7 @@
                 "id" : "Teks 1"
             },
             "input": "text",
-            "value": ""
+            "value": "اجتنب مصاحبة الكذاب فإن اضطررت إليه فلا تُصَدِّقْهُ"
         },
         "text2": {
             "label": {
@@ -61,7 +61,7 @@
                 "id" : "Teks 2"
             },
             "input": "text",
-            "value": "اجتنب مصاحبة الكذاب فإن<br>اضطررت إليه فلا تُصَدِّقْهُ"
+            "value": ""
         },
         "text3": {
             "label": {
@@ -77,7 +77,7 @@
                 "id" : "Teks 4"
             },
             "input": "text",
-            "value": "Stay away from someone who says things that are not true. And if you must be with that person, then don't believe what he says."
+            "value": "Stay away from someone<br>who says things that are not true.<br>And if you must be with that person,<br>then don't believe what he says."
         },
         "footnote": {
             "label": {
