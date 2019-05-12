@@ -2,6 +2,10 @@
 
 Posty Poster Data provides API for [Posty Poster](https://github.com/ezhmd/posty-poster), including design-packs and design-assets.
 
+# Releases
+
+Please check tags for stable versions. The master branch contains latest development changes that are mostly unstable.
+
 ## How to Run
 
 Check [Posty Poster: How to Run](https://github.com/ezhmd/posty-poster#how-to-run) readme.
