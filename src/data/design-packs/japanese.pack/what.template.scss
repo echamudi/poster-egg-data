@@ -1,0 +1,15 @@
+#artboard {
+
+    font-family: 'Noto Sans JP';
+    font-weight: 900;
+
+    .bg {
+        background-image: url(__designDataUrl__/design-assets/vectors/jp-what.svg);
+    }
+
+    .text-wrapper {
+        color: #4D3E19;
+        text-shadow: 4px 4px rgba(0,0,0,0.2);
+        transform: rotate(__textAngle__deg);
+    }
+}

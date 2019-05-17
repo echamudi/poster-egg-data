@@ -1,0 +1,31 @@
+{
+    "extends": {
+        "packID" : "japanese",
+        "designID" : "ramen",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "order": 5,
+    "title": {
+        "en": "Night",
+        "id": "Night"
+    },
+    "fonts" : "Noto+Sans+JP:900",
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "text" : {
+            "value": "何"
+        },
+        "textSize": {
+            "value": 500
+        },
+        "textAngle": {
+            "value": 0
+        }
+    }
+}
