@@ -1,0 +1,31 @@
+{
+    "extends": {
+        "packID" : "japanese",
+        "designID" : "ramen",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "order": 6,
+    "title": {
+        "en": "Sushi",
+        "id": "Sushi"
+    },
+    "fonts" : "Noto+Sans+JP:900",
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "text" : {
+            "value": "寿司"
+        },
+        "textSize": {
+            "value": 350
+        },
+        "textAngle": {
+            "value": -5
+        }
+    }
+}
