@@ -1,0 +1,31 @@
+{
+    "extends": {
+        "packID" : "japanese",
+        "designID" : "ramen",
+        "mergeBehaviour" : {
+            "css" : "parent-then-child",
+            "html" : "use-parent"
+        }
+    },
+    "order": 3,
+    "title": {
+        "en": "Reading",
+        "id": "Reading"
+    },
+    "fonts" : "M+PLUS+Rounded+1c:400",
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "text" : {
+            "value": "読書"
+        },
+        "textSize": {
+            "value": 300
+        },
+        "textAngle": {
+            "value": 0
+        }
+    }
+}

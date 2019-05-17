@@ -1,0 +1,15 @@
+#artboard {
+
+    font-family: 'M PLUS Rounded 1c';
+    font-weight: 700;
+
+    .bg {
+        background-image: url(__designDataUrl__/design-assets/vectors/jp-reading.svg);
+    }
+
+    .text-wrapper {
+        color: #f9e890;
+        font-weight: 700;
+        transform: rotate(__textAngle__deg);
+    }
+}
