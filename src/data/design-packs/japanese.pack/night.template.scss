@@ -1,0 +1,14 @@
+#artboard {
+
+    font-family: 'Noto Sans JP';
+    font-weight: 900;
+
+    .bg {
+        background-image: url(__designDataUrl__/design-assets/vectors/jp-night.svg);
+    }
+
+    .text-wrapper {
+        color: #DCCCAD;
+        transform: rotate(__textAngle__deg);
+    }
+}
