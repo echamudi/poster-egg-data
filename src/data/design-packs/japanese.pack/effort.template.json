@@ -1,0 +1,56 @@
+{
+    "order": 7,
+    "title": {
+        "en": "Effort",
+        "id": "Effort"
+    },
+    "fonts" : "Noto+Serif+JP|Playfair+Display",
+    "size" : {
+        "w": 1024,
+        "h": 1024
+    },
+    "designProperties": {
+        "hue": {
+            "label": {
+                "en" : "Colourize",
+                "id" : "Warna"
+            },
+            "input": "range",
+            "value": 0,
+            "min": 0,
+            "max": 360
+        },
+        "brightness": {
+            "label" : {
+                "en" : "Brightness",
+                "id" : "Kecerahan"
+            },
+            "input": "range",
+            "value": "1",
+            "min": 0.5,
+            "max": 2,
+            "step": ".01"
+        },
+        "sep0": {
+            "input": "separator"
+        },
+        "text1" : {
+            "label": {
+                "en" : "Text",
+                "id" : "Teks"
+            },
+            "input": "text",
+            "value": "虎穴に入らずんば虎子を得ず。"
+        },
+        "textSize1": {
+            "label": {
+                "en" : "Font Size",
+                "id" : "Ukuran Font"
+            },
+            "input": "range",
+            "value": 80,
+            "min": 30,
+            "max": 400
+        }
+    }
+}

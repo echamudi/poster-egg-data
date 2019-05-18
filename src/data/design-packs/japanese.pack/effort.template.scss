@@ -1,0 +1,33 @@
+#artboard {
+
+    font-family: 'Noto Serif JP', 'Playfair Display', serif;
+    font-weight: 400;
+    filter: hue-rotate(__hue__deg) brightness(__brightness__);
+    font-size: __textSize1__px;
+
+    .bg {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #135A6E;
+    }
+
+    .text-wrapper {
+        text-align: center;
+        padding: 70px;
+        text-shadow: 3px 3px rgba(0,0,0,0.2);
+        position: absolute;
+        line-height: 1.2;
+        width: 100%;
+        height: 100%;
+        color: #D4D7E2;
+        font-weight: 900;
+        transform: rotate(__textAngle__deg);
+    }
+
+    .text {
+        text-align: left;
+        display: inline;
+        writing-mode: vertical-rl;
+    }
+}
