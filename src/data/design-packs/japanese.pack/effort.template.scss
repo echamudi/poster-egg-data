@@ -13,7 +13,7 @@
     }
 
     .text-wrapper {
-        text-align: center;
+        text-align: left;
         padding: 70px;
         text-shadow: 3px 3px rgba(0,0,0,0.2);
         position: absolute;
@@ -23,11 +23,13 @@
         color: #D4D7E2;
         font-weight: 900;
         transform: rotate(__textAngle__deg);
+        display: flex;
+        align-items: center;
     }
 
     .text {
         text-align: left;
         display: inline;
-        writing-mode: vertical-rl;
+        // writing-mode: vertical-rl;
     }
 }
