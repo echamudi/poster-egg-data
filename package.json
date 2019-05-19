@@ -1,5 +1,5 @@
 {
-  "name": "posty-poster-data",
+  "name": "poster-egg-data",
   "version": "0.0.1",
   "description": "A client-side poster maker using HTML5, CSS3, and Angular.",
   "main": "index.js",
