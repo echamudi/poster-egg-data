@@ -10,11 +10,9 @@ Please check tags for stable versions. The master branch contains latest develop
 
 Check [Poster Egg: How to Run](https://github.com/ezhmd/poster-egg#how-to-run) readme.
 
-## Creator
+## Authors
 
-Ezzat Chamudi
-
-[e.chamudi@outlook.com](mailto:e.chamudi@outlook.com)
+* **Ezzat Chamudi** - *Initial work* - [ezhmd](https://github.com/ezhmd)
 
 ## Licenses
 
