@@ -12,7 +12,7 @@ Check [Poster Egg: How to Run](https://github.com/ezhmd/poster-egg#how-to-run) r
 
 ## Authors
 
-* **Ezzat Chamudi** - *Initial work* - [ezhmd](https://github.com/ezhmd)
+* **Ezzat Chamudi** - [ezhmd](https://github.com/ezhmd)
 
 ## Licenses
 
