@@ -14,7 +14,7 @@ Check [Poster Egg: How to Run](https://github.com/ezhmd/poster-egg#how-to-run) r
 
 Ezzat Chamudi
 
-[facebook.com/ezzatchamudi](https://facebook.com/ezzatchamudi)
+[e.chamudi@outlook.com](mailto:e.chamudi@outlook.com)
 
 ## Licenses
 
