@@ -2,7 +2,7 @@
 
 Poster Egg Data provides API for [Poster Egg](https://github.com/ezhmd/poster-egg), including design-packs and design-assets. This repo was formerly named "Posty Poster Data".
 
-# Releases
+## Releases
 
 Please check tags for stable versions. The master branch contains latest development changes that are mostly unstable.
 
