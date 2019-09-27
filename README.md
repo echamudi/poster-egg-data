@@ -22,4 +22,4 @@ Code and documentation copyright 2019 the [Posty Egg Data Project Authors](https
 
 Posty Egg Data code is licensed under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html). Images, logos, docs, and articles in this Posty Egg Data project are released under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-Libraries, dependencies, and tools used in this project aret tied with their own licenses respectively.
+Libraries, dependencies, and tools used in this project are tied with their own licenses respectively.
